@@ -1,0 +1,6 @@
+model,ecs_mean,date,org,notes
+gpt-4o,0.20,2025-11-07,OpenAI,"Failed 41/50 tasks"
+claude-3.5-sonnet,0.18,2025-11-07,Anthropic,"Koans = 0.00"
+grok-beta,0.03,2025-11-07,xAI,"Truth-seeking ≠ wisdom"
+llama-3.1-405b,0.17,2025-11-07,Meta,"Open-source ceiling"
+human-expert-01,0.94,2025-11-07,Independent,"Farmer, 30 yrs exp"
